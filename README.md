@@ -1,3 +1,4 @@
+## NOT MINE!
 ## How to play
 1. **Click [here](https://cdn.rawgit.com/mzmousa/tetris-ai/525db086/Tetris.html)**
 2. Clone this repo and open the Tetris.html file in your web browser.
